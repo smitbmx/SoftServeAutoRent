@@ -1,0 +1,54 @@
+<mockup version="1.0" skin="sketch" measuredW="923" measuredH="581" mockupW="855" mockupH="556">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TitleWindow" x="58" y="15" w="855" h="556" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0421%u043F%u0438%u0441%u0430%u043D%u0438%u0435%20%u0430%u0432%u0442%u043E</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="848" y="506" w="-1" h="-1" measuredW="43" measuredH="28" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>OK</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="85" y="498" w="-1" h="-1" measuredW="71" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u041E%u0442%u043C%u0435%u043D%u0430</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="99" y="123" w="398" h="305" measuredW="742" measuredH="557" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./wpid-novuyu-astra-budut-d.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="396" y="43" w="-1" h="-1" measuredW="98" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0421%u043B%u0435%u0434%u0443%u044E%u0449%u0430%u044F</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="163" y="43" w="-1" h="-1" measuredW="107" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u041F%u0440%u0435%u0434%u044B%u0434%u0443%u0449%u0430%u044F</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="532" y="70" w="-1" h="-1" measuredW="72" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0421%u043E%u0441%u0442%u043E%u044F%u043D%u0438%u0435</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="700" y="507" w="-1" h="-1" measuredW="75" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0421%u043F%u0438%u0441%u0430%u0442%u044C</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::ComboBox" x="648" y="69" w="164" h="-1" measuredW="94" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u041E%u0442%u043B%u0438%u0447%u043D%u043E%u0435</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::DataGrid" x="512" y="103" w="-1" h="-1" measuredW="348" measuredH="358" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u041C%u0430%u0440%u043A%u0430%2C%20OPEL%0A%u041C%u043E%u0434%u0435%u043B%u044C%2CAstra%0A%u0413%u043E%u0434%20%u0432%u044B%u043F%u0443%u0441%u043A%u0430%2C2015%0A%u041E%u0431%u044A%u0435%u043C%20%u0434%u0432%u0438%u0433%u0430%u0442%u0435%u043B%u044F%2C1.6%0A%u041F%u0440%u043E%u0431%u0435%u0433%20%u043A%u043C%2C%2056563%0A%u0414%u0430%u0442%u0430%20%u0432%u0432%u043E%u0434%u0430%20%u0432%20%u044D%u043A%u0441%u043F%u043B%u0443%u0430%u0442%u0430%u0446%u0438%u044E%2C%2003.06.2016%0A%u0414%u0430%u0442%u0430%20%u043E%u043A%u043E%u043D%u0447%u0430%u043D%u0438%u044F%20%u044D%u043A%u0441%u043F%u043B%u0443%u0430%u0442%u0430%u0446%u0438%u0438%2C%2003.06.2019%0A%u0421%u0440%u043E%u043A%20%u044D%u043A%u0441%u043F%u043B%u0443%u0430%u0442%u0430%u0446%u0438%u0438%2C%202%0A%u0413%u043E%u0441%20%u043D%u043E%u043C%u0435%u0440%u0430%2C%20%u0410%u04107865%u0410%u0415%0A%u0426%u0432%u0435%u0442%2C%20%u0431%u0435%u043B%u044B%u0439%0A%u041D%u043E%u043C%u0435%u0440%20%u043A%u0443%u0437%u043E%u0432%u0430%2C%20%u0433%u044856%u043D7%u0435%u043A%u043F%u0440%u043B%u044B%u0432%u0430%u043E%0A%u041F%u0440%u0438%u043C%u0435%u0447%u0430%u043D%u0438%u0435%2C%20%u041F%u041E%u041B%u0410%u041C%u0410%u041B%u0410%u0421%u042C%3A%29</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
