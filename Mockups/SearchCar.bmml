@@ -1,0 +1,162 @@
+<mockup version="1.0" skin="sketch" measuredW="989" measuredH="822" mockupW="800" mockupH="800">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="189" y="22" w="800" h="800" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AutoRent%3A%20Search%0Ahttp%3A//autorent.dp.ua/search.aspx</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TabBar" x="204" y="193" w="770" h="595" measuredW="329" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20Search%20car%2C%20About%2C%20Contacts%2C%20Login</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="210" y="230" w="-1" h="-1" measuredW="393" measuredH="50" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search%20and%20order%20car%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Canvas" x="204" y="98" w="770" h="88" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="__group__" x="210" y="285" w="169" h="478" measuredW="169" measuredH="478" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="169" h="478" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="42"/>
+        <control controlID="1" controlTypeID="__group__" x="6" y="7" w="155" h="44" measuredW="155" measuredH="44" zOrder="1" locked="false" isInGroup="42">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="119" h="21" measuredW="119" measuredH="21" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Choose%20type%20of%20car%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="21" w="155" h="-1" measuredW="81" measuredH="23" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Average</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="6" y="65" w="155" h="44" measuredW="155" measuredH="44" zOrder="2" locked="false" isInGroup="42">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="3" y="0" w="82" h="21" measuredW="82" measuredH="21" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>Select%20Make%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="21" w="155" h="-1" measuredW="64" measuredH="23" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>Acura</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="6" y="124" w="155" h="44" measuredW="155" measuredH="44" zOrder="3" locked="false" isInGroup="42">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="85" h="21" measuredW="85" measuredH="21" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <text>Select%20Model%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="21" w="155" h="-1" measuredW="49" measuredH="23" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <text>CL</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="6" y="236" w="155" h="44" measuredW="155" measuredH="44" zOrder="4" locked="false" isInGroup="42">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="73" h="21" measuredW="73" measuredH="21" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Offer%20Date%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::DateChooser" x="0" y="19" w="155" h="-1" measuredW="139" measuredH="25" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>%2020/09/2012%20%20%20%20</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="6" y="181" w="155" h="42" measuredW="155" measuredH="42" zOrder="5" locked="false" isInGroup="42">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="99" h="21" measuredW="99" measuredH="21" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Select%20Location%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="19" w="155" h="-1" measuredW="119" measuredH="23" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Dnipropetrovsk</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="6" y="301" w="155" h="27" measuredW="65" measuredH="27" zOrder="6" locked="false" isInGroup="42">
+          <controlProperties>
+            <text>Search</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Canvas" x="388" y="288" w="575" h="475" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::DataGrid" x="394" y="295" w="565" h="434" measuredW="415" measuredH="439" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <hLines>false</hLines>
+        <rowHeight>80</rowHeight>
+        <selectedIndex>-1</selectedIndex>
+        <text>Picture%2C%20Make%20%5E%2C%20Model%20v%2C%20Price%5Cr%28per%20day%29%20v%2C%20Location%20v%2C%20Order%0A%3Cpic%3E%2C%20Acura%2C%20CL%2C%2050%24%2C%20Dnipropetrovsk%2C%20%20%20%20%20%20%20%20%20%20%20%0A%5Bpic%5D%2C%20Acura%2C%20CL%2C%2052%24%2C%20Dnipropetrovsk%2C%20%20%0A%5Bpic%5D%2C%20Acura%2C%20CL%2C%2050%24%2C%20Dnipropetrovsk%2C%20%20%0A%5Bpic%5D%2C%20Acura%2C%20CL%2C%2055%24%2C%20Dnipropetrovsk%2C%20%20%0A%5Bpic%5D%2C%20Acura%2C%20CL%2C%2060%24%2C%20Dnipropetrovsk%2C%20%20</text>
+        <vLines>true</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Title" x="219" y="113" w="740" h="-1" measuredW="304" measuredH="50" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AutoRent%20banner</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Link" x="889" y="360" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Order%20now%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Link" x="889" y="439" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Order%20now%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Link" x="889" y="523" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Order%20now%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Link" x="889" y="603" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Order%20now%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Link" x="889" y="682" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Order%20now%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="394" y="735" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Page%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Link" x="434" y="735" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1%2C2%2C3...7%2C8%2C9</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
