@@ -7,6 +7,7 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::TabBar" x="204" y="193" w="770" h="595" measuredW="329" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
+        <selectedIndex>1</selectedIndex>
         <text>Home%2C%20Search%20car%2C%20About%2C%20Contacts%2C%20Login</text>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
@@ -108,13 +109,13 @@
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="44" controlTypeID="com.balsamiq.mockups::DataGrid" x="394" y="295" w="565" h="434" measuredW="415" measuredH="439" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::DataGrid" x="394" y="295" w="565" h="434" measuredW="436" measuredH="439" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <hLines>false</hLines>
         <rowHeight>80</rowHeight>
         <selectedIndex>-1</selectedIndex>
-        <text>Picture%2C%20Make%20%5E%2C%20Model%20v%2C%20Price%5Cr%28per%20day%29%20v%2C%20Location%20v%2C%20Order%0A%3Cpic%3E%2C%20Acura%2C%20CL%2C%2050%24%2C%20Dnipropetrovsk%2C%20%20%20%20%20%20%20%20%20%20%20%0A%5Bpic%5D%2C%20Acura%2C%20CL%2C%2052%24%2C%20Dnipropetrovsk%2C%20%20%0A%5Bpic%5D%2C%20Acura%2C%20CL%2C%2050%24%2C%20Dnipropetrovsk%2C%20%20%0A%5Bpic%5D%2C%20Acura%2C%20CL%2C%2055%24%2C%20Dnipropetrovsk%2C%20%20%0A%5Bpic%5D%2C%20Acura%2C%20CL%2C%2060%24%2C%20Dnipropetrovsk%2C%20%20</text>
+        <text>Picture%2C%20Make%20%5E%2C%20Model%20v%2C%20Price%5Cr%28per%20day/km%29%20v%2C%20Location%20v%2C%20Order%0A%3Cpic%3E%2C%20Acura%2C%20CL%2C%2050%24/3%24%2C%20Dnipropetrovsk%2C%20%20%20%20%20%20%20%20%20%20%20%0A%5Bpic%5D%2C%20Acura%2C%20CL%2C%2052%24/3%24%2C%20Dnipropetrovsk%2C%20%20%0A%5Bpic%5D%2C%20Acura%2C%20CL%2C%2050%24/3%24%2C%20Dnipropetrovsk%2C%20%20%0A%5Bpic%5D%2C%20Acura%2C%20CL%2C%2055%24/3%24%2C%20Dnipropetrovsk%2C%20%20%0A%5Bpic%5D%2C%20Acura%2C%20CL%2C%2060%24/3.2%24%2C%20Dnipropetrovsk%2C%20%20</text>
         <vLines>true</vLines>
       </controlProperties>
     </control>
